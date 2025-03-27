@@ -1,4 +1,6 @@
 * [RELEASE NOTES](administrators-manual/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 19.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
+    * [Screen Capture Control In Work Profile](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Screen-Capture-Control-In-Work-Profile.md)
   * [Release Notes \<NomeProduto> V 17.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
     * [Automatic App Service Restart](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Automatic-App-Service-Restart.md)
     * [Migration Of Policies From Standard To Enterprise](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Migration-Of-Policies-From-Standard-To-Enterprise.md)
