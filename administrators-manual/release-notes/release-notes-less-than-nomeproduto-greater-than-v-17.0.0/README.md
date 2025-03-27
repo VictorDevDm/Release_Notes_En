@@ -2,3 +2,7 @@
 
 ## **Versão 17.0.0 - 03/2025**
 
+
+### **Bug Fix**
+
+1. [Automatic App Service Restart](Automatic-App-Service-Restart.md)
