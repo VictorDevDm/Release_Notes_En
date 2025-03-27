@@ -2,3 +2,4 @@
   * [Release Notes \<NomeProduto> V 18.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Disconnected Devices Notification](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Disconnected-Devices-Notification.md)
     * [Company Terms Of Use On The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Company-Terms-Of-Use-On-The-Portal.md)
+    * [Intel Amt Policy Configuration On Windows](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/Intel-Amt-Policy-Configuration-On-Windows.md)
