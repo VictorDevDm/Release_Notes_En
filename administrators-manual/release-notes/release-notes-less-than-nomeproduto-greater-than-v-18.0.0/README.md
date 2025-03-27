@@ -6,3 +6,7 @@
 ### **New Features**
 
 1. [Device Disconnection Notification](Device-Disconnection-Notification.md)
+
+### **Bug Fix**
+
+1. [Disabling Location Sharing](Disabling-Location-Sharing.md)
