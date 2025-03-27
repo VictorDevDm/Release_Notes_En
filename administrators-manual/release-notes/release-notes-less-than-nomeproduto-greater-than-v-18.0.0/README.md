@@ -6,3 +6,4 @@
 ### **New Features**
 
 1. [Disconnected Devices Notification](Disconnected-Devices-Notification.md)
+2. [Company Terms of Use on the Portal](Company-Terms-Of-Use-On-The-Portal.md)
