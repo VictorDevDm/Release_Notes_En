@@ -2,3 +2,7 @@
 
 ## **Versão 18.0.0 - 03/2025**
 
+
+### **New Features**
+
+1. [Disconnected Devices Notification](Disconnected-Devices-Notification.md)
