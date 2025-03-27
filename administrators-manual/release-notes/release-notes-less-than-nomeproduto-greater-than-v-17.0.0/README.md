@@ -6,3 +6,7 @@
 ### **Bug Fix**
 
 1. [Automatic App Service Restart](Automatic-App-Service-Restart.md)
+
+### **New Features**
+
+1. [Migration of Policies from Standard to Enterprise](Migration-Of-Policies-From-Standard-To-Enterprise.md)
