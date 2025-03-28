@@ -8,6 +8,7 @@
 1. [Speed-Based App Blocking in the Portal](Speed-Based-App-Blocking-In-The-Portal.md)
 
 2. [Multi-Company Access on the Portal](Multi-Company-Access-On-The-Portal.md)
+3. [Multi-Company Action Auditing on the Portal](Multi-Company-Action-Auditing-On-The-Portal.md)
 ### **Improvements**
 
 1. [Total Licenses in Portal with Hybrid Licenses](Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
