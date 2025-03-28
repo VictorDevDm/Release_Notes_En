@@ -2,3 +2,7 @@
 
 ## **Versão 20.0.0 - 03/2025**
 
+
+### **New Features**
+
+1. [Speed-Based App Blocking in the Portal](Speed-Based-App-Blocking-In-The-Portal.md)
