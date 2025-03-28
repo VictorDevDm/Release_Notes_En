@@ -13,3 +13,4 @@
 2. [Display of Uninstalled Licenses on the Portal](Display-Of-Uninstalled-Licenses-On-The-Portal.md)
 3. [Multi-Company Management in Claro Bundle Integration](Multi-Company-Management-In-Claro-Bundle-Integration.md)
 4. [Creation of Multi Companies in Vivo Integration](Creation-Of-Multi-Companies-In-Vivo-Integration.md)
+5. [Multi-Company Management in Telcel Integration](Multi-Company-Management-In-Telcel-Integration.md)
