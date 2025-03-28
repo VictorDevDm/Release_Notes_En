@@ -9,6 +9,7 @@
 
 2. [Multi-Company Access on the Portal](Multi-Company-Access-On-The-Portal.md)
 3. [Multi-Company Action Auditing on the Portal](Multi-Company-Action-Auditing-On-The-Portal.md)
+4. [Creation of Multiple Companies on the Operator Portal](Creation-Of-Multiple-Companies-On-The-Operator-Portal.md)
 ### **Improvements**
 
 1. [Total Licenses in Portal with Hybrid Licenses](Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
