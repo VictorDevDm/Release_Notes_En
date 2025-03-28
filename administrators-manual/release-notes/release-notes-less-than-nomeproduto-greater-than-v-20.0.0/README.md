@@ -6,3 +6,7 @@
 ### **New Features**
 
 1. [Speed-Based App Blocking in the Portal](Speed-Based-App-Blocking-In-The-Portal.md)
+
+### **Improvements**
+
+1. [Total Licenses in Portal with Hybrid Licenses](Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
