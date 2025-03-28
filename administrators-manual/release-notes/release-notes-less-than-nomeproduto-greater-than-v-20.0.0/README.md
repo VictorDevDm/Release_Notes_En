@@ -11,3 +11,4 @@
 
 1. [Total Licenses in Portal with Hybrid Licenses](Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
 2. [Display of Uninstalled Licenses on the Portal](Display-Of-Uninstalled-Licenses-On-The-Portal.md)
+3. [Multi-Company Management in Claro Bundle Integration](Multi-Company-Management-In-Claro-Bundle-Integration.md)
