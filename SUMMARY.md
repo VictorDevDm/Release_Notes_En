@@ -3,6 +3,7 @@
     * [Speed Based App Blocking In The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Speed-Based-App-Blocking-In-The-Portal.md)
     * [Total Licenses In Portal With Hybrid Licenses](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
     * [Display Of Uninstalled Licenses On The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Display-Of-Uninstalled-Licenses-On-The-Portal.md)
+    * [Multi Company Management In Claro Bundle Integration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Multi-Company-Management-In-Claro-Bundle-Integration.md)
   * [Release Notes \<NomeProduto> V 19.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [Screen Capture Control In Work Profile](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Screen-Capture-Control-In-Work-Profile.md)
   * [Release Notes \<NomeProduto> V 17.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
