@@ -1,0 +1,5 @@
+# Speed-Based App Blocking in the Portal
+
+**US ID: US-NPD-7726**
+
+In the portal, you can configure app blocking based on the device's speed, helping to prevent app usage while the device is in motion. You set the speed at which apps begin to be blocked (default is 20 km/h) and choose the unit of measurement (default is km/h). You can also define how long the device needs to remain above this speed before apps are blocked, ranging from 1 to 10 minutes (default is 1 minute). When you change a policy, these settings are automatically sent to devices connected to <ProductName>. Blocking can be individually enabled or disabled for each app, except for certain specific apps that cannot be blocked. Once the device reaches or exceeds the defined speed, the app is blocked after the configured waiting time. If the speed decreases, the block is removed after a new speed condition check.
