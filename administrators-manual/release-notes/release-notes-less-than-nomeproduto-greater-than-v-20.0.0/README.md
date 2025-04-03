@@ -18,3 +18,4 @@
 4. [Creation of Multi Companies in Vivo Integration](Creation-Of-Multi-Companies-In-Vivo-Integration.md)
 5. [Multi-Company Management in Telcel Integration](Multi-Company-Management-In-Telcel-Integration.md)
 6. [Creation of Multi-Company for Administrators](Creation-Of-Multi-Company-For-Administrators.md)
+7. [Creation of Multiple Companies in Vivo Integration](Creation-Of-Multiple-Companies-In-Vivo-Integration.md)
