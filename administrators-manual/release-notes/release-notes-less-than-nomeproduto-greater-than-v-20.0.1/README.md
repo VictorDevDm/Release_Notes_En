@@ -6,3 +6,4 @@
 ### **New Features**
 
 1. [App Lock by Speed](App-Lock-By-Speed.md)
+2. [Speed-Based App Lock](Speed-Based-App-Lock.md)
