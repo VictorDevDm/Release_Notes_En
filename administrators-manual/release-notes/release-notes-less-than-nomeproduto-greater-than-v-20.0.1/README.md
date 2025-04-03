@@ -7,3 +7,7 @@
 
 1. [App Lock by Speed](App-Lock-By-Speed.md)
 2. [Speed-Based App Lock](Speed-Based-App-Lock.md)
+
+### **Bug Fix**
+
+1. [Display of Total Licenses on the Portal](Display-Of-Total-Licenses-On-The-Portal.md)
