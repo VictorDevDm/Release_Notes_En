@@ -1,5 +1,5 @@
 # Speed-Based App Lock
 
-**US ID: US-NPD-7726**
+**User Story ID: US-NPD-7726**
 
-In the portal, you can configure app locking based on your device's speed. When you enable the "Enable Speed Lock" option, you can set a minimum speed (starting at 20 km/h) and a wait time (initially 1 minute) for the apps to be locked. In the app, the configured apps will be locked as soon as the device reaches or exceeds this speed. They will be unlocked when the device's speed falls below the set threshold. The settings are automatically sent to the devices connected to <ProductName>.
+In the portal, you can configure app locking based on your device's speed. When this option is enabled, the system sets a minimum speed, which by default is 20 km/h, to start locking the apps. You can also adjust the unit of measurement and the wait time, which by default is 1 minute. In the "Applications" tab, you can choose which apps will have the lock enabled or disabled. The app lock will only occur if your device is at or above the configured speed. Once you make the configurations, they are automatically sent to the devices connected to <ProductName>.
