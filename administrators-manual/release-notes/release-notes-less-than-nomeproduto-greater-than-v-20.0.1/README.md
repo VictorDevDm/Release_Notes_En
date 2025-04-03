@@ -16,3 +16,4 @@
 ### **Improvements**
 
 1. [Creation of Multi-Companies in Claro Bundle Integration](Creation-Of-Multi-Companies-In-Claro-Bundle-Integration.md)
+2. [Creation of Multi Companies in Vivo Integration](Creation-Of-Multi-Companies-In-Vivo-Integration.md)
