@@ -18,3 +18,4 @@
 1. [Creation of Multi-Companies in Claro Bundle Integration](Creation-Of-Multi-Companies-In-Claro-Bundle-Integration.md)
 2. [Creation of Multi Companies in Vivo Integration](Creation-Of-Multi-Companies-In-Vivo-Integration.md)
 3. [Creation of Multiple Companies in Telcel Integration](Creation-Of-Multiple-Companies-In-Telcel-Integration.md)
+4. [Creation of Multiple Companies for Administrator at Claro Colombia](Creation-Of-Multiple-Companies-For-Administrator-At-Claro-Colombia.md)
