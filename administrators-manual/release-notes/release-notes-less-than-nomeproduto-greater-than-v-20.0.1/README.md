@@ -8,6 +8,7 @@
 1. [App Lock by Speed](App-Lock-By-Speed.md)
 2. [Speed-Based App Lock](Speed-Based-App-Lock.md)
 
+3. [Multi-Company Access on the Portal](Multi-Company-Access-On-The-Portal.md)
 ### **Bug Fix**
 
 1. [Display of Total Licenses on the Portal](Display-Of-Total-Licenses-On-The-Portal.md)
