@@ -9,6 +9,7 @@
 2. [Speed-Based App Lock](Speed-Based-App-Lock.md)
 
 3. [Multi-Company Access on the Portal](Multi-Company-Access-On-The-Portal.md)
+4. [Audit of Actions in Multiple Companies](Audit-Of-Actions-In-Multiple-Companies.md)
 ### **Bug Fix**
 
 1. [Display of Total Licenses on the Portal](Display-Of-Total-Licenses-On-The-Portal.md)
