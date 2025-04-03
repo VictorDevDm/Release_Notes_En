@@ -8,6 +8,7 @@
     * [Creation Of Multi Companies In Vivo Integration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creation-Of-Multi-Companies-In-Vivo-Integration.md)
     * [Creation Of Multiple Companies In Telcel Integration](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creation-Of-Multiple-Companies-In-Telcel-Integration.md)
     * [Creation Of Multiple Companies For Administrator At Claro Colombia](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creation-Of-Multiple-Companies-For-Administrator-At-Claro-Colombia.md)
+    * [Multi Company Access On The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Multi-Company-Access-On-The-Portal.md)
   * [Release Notes \<NomeProduto> V 20.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Speed Based App Blocking In The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Speed-Based-App-Blocking-In-The-Portal.md)
     * [Total Licenses In Portal With Hybrid Licenses](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
