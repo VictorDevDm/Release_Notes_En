@@ -2,6 +2,7 @@
   * [Release Notes \<NomeProduto> V 20.0.1](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/README.md)
     * [App Lock By Speed](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/App-Lock-By-Speed.md)
     * [Speed Based App Lock](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Speed-Based-App-Lock.md)
+    * [Display Of Total Licenses On The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Display-Of-Total-Licenses-On-The-Portal.md)
   * [Release Notes \<NomeProduto> V 20.0.0](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Speed Based App Blocking In The Portal](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Speed-Based-App-Blocking-In-The-Portal.md)
     * [Total Licenses In Portal With Hybrid Licenses](administrators-manual/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-Licenses-In-Portal-With-Hybrid-Licenses.md)
