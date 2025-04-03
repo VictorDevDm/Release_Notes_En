@@ -11,3 +11,4 @@
 ### **Bug Fix**
 
 1. [Display of Total Licenses on the Portal](Display-Of-Total-Licenses-On-The-Portal.md)
+2. [Overview of Uninstalled Licenses in the Portal](Overview-Of-Uninstalled-Licenses-In-The-Portal.md)
